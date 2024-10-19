@@ -10,7 +10,7 @@
     <body>
         <h1>To do list</h1>
         <form id="task">Enter task:
-            <input id="taskname" type="text" placeholder="Task name"></input>
+            <input id="taskname" type="text" placeholder="Task name">
             <label>Task priority</label>
             <select id="selectprio">
                 <option value="Low">Low priority</option>
