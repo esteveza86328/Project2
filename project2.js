@@ -54,4 +54,5 @@ function submit(){
     counter++;
     document.getElementById('taskname').value ="";
     document.getElementById("tasklist").appendChild(node);
+    event.preventDefault();
 }
