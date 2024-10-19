@@ -23,6 +23,5 @@
         </form>  
         
         <ul id="tasklist"></ul>
-        </body>
     </body>    
 </html>
